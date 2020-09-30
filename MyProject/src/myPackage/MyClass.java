@@ -7,6 +7,7 @@ public class MyClass {
                 //Adding Commit
 		System.out.println("Hello");
 		System.out.println("World");
+		System.out.println("Welcome");
 	}
 
 }
