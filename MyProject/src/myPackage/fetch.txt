@@ -1,2 +1,12 @@
 Step1: Create or modify a file
 Step2: Add Commit comments a commit new file or modified file
+Step 3 : GO to eclipse Open window--perspective--other perpestive--GIT
+Step4: Follow Remote--Origin--right click fetch...
+Step5:Branches--Remote Tracking--Synchronise with workspace
+Step6:then a new window called Team Synchronization will open there go to specific file to sychronise with workspace
+Step 7:Finally click on pull icon
+Step 8: To see whether the changes are appeared in our workspace..open the project with specified with a check...
+
+
+
+
