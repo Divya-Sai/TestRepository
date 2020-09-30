@@ -13,6 +13,8 @@ public class Push {
            then open GIT
            Window-Perspective--Other--Git--Click open
            It will open a new git window
+           Open Git Staging Tab and write description in Commit Message and comit
+           Remote -- origin --push--give credentials
            -->Remote Section--click on Push
            */
 
