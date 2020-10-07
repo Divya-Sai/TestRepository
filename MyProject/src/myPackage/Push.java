@@ -9,7 +9,11 @@ public class Push {
 		 * from local to remote server
 		 * Step1:Create a normal java project,package and a class
 		 * Step 2: Now right click on project -->Team-->Share Patch-->create a new localrepository 
-		 * Team-->Commit
+		 * Team-->Commit-->stage all files-->Commit Message
+		 * Branches-->Local-->master-->push Branch
+		 * paste the URI created in git hub and provide credentials thats it....
+		 * go to git hub in web app and check whether your commit are present
+		 * =============================================================================
 		 * open Git tab in using prefernces
 		 * stage all files
 		 *  Push to branch master
