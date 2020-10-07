@@ -8,7 +8,11 @@ public class Push {
 		/* This file tells you that how to push a file 
 		 * from local to remote server
 		 * Step1:Create a normal java project,package and a class
-		 * Step 2: Now right click on project -->Team--> Push to branch master
+		 * Step 2: Now right click on project -->Team-->Share Patch-->create a new localrepository 
+		 * Team-->Commit
+		 * open Git tab in using prefernces
+		 * stage all files
+		 *  Push to branch master
            preview and provide login details and finally push
            then open GIT
            Window-Perspective--Other--Git--Click open
